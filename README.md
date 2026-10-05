@@ -1,2 +1,24 @@
-# loreal-swing-portfolio
-SWING fragrance concept and China go-to-market portfolio | Brandstorm 2026
+# SWING 香氛创新与市场策略作品集
+
+刘映彤 · L’Oréal Brandstorm 2026 · Transteam 团队负责人
+
+作品集：https://dawwnforu.github.io/loreal-swing-portfolio/
+
+内容覆盖消费者需求、可穿戴香氛概念、目标人群、替换内芯商业模式与中国市场四阶段上市规划。
+
+这是学生团队参赛概念的个人作品集整理，并非欧莱雅官方产品或已落地商业合作。原项目日期为 2026.01—2026.03；网页与复盘于 2026 年 10 月整理。团队成果与个人角色分别呈现。
+
+## 内容范围
+
+- 产品外观与结构视觉来自原团队提案，仅为概念效果图，非实物样机。
+- 上市节奏、渠道、合作和订阅均为策划方案。
+- 需求及性能仍待验证，不声明完成用户实验、实物测试、销售转化或获奖。
+- 不包含标有内部使用的研究报告、个人联系方式、团队介绍视频及分工原件。
+
+## 本地预览
+
+在本目录运行 `python -m http.server 8765`，打开 `http://localhost:8765`。
+
+无构建依赖。GitHub Pages 使用 `main` 分支根目录。
+
+本仓库公开展示不等同于授予商业使用许可。相关品牌归其权利人所有。
